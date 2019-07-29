@@ -1,6 +1,6 @@
 # grid_list_view
 
-A new Flutter project.
+simple gird list view with dark theme.
 
 ## Getting Started
 
