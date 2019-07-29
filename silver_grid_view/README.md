@@ -1,4 +1,4 @@
-# silver_grid_view
+# grid_list_view
 
 A new Flutter project.
 
